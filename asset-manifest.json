@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MarkDownEditor/static/css/main.f55e3832.css",
+    "main.js": "/MarkDownEditor/static/js/main.680a3a07.js",
+    "static/js/453.09e74838.chunk.js": "/MarkDownEditor/static/js/453.09e74838.chunk.js",
+    "index.html": "/MarkDownEditor/index.html",
+    "main.f55e3832.css.map": "/MarkDownEditor/static/css/main.f55e3832.css.map",
+    "main.680a3a07.js.map": "/MarkDownEditor/static/js/main.680a3a07.js.map",
+    "453.09e74838.chunk.js.map": "/MarkDownEditor/static/js/453.09e74838.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f55e3832.css",
+    "static/js/main.680a3a07.js"
+  ]
+}

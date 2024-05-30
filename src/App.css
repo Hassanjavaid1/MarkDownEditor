@@ -1,0 +1,35 @@
+body{
+  background-color: teal;
+}
+.editorStyle{
+  background-color: azure;
+  column-gap: 0.7rem;
+  width: 100%;
+  text-indent: 0.5rem;
+  border: 1px solid;
+  box-shadow: 0rem 0rem 2rem;
+
+
+}
+.container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+h3{
+  font-size: x-large;
+    font-family: sans-serif;
+}
+textarea{
+  font-size: large;
+}
+#preview{
+  overflow: scroll;
+}
+.editor_container{
+  width: 65%;
+}

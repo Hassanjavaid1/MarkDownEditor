@@ -1,10 +1,9 @@
-import './App.css';
-import MarkDownEditor from './Components/MarkDownEditor';
+import "./App.css";
+import Drum_Machine from "./Components/Drum_Machine";
 function App() {
   return (
     <>
-    <MarkDownEditor/>
-    
+      <Drum_Machine/>
     </>
   );
 }

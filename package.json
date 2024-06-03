@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Hassanjavaid1.github.io/DrumMachine",
-  "name": "markdown-editor",
+  "homepage": "https://Hassanjavaid1.github.io/Drum_Machine",
+  "name": "drum_machine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
